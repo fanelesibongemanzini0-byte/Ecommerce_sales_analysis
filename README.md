@@ -82,7 +82,7 @@ Before loading data into MySQL:
 - Parsed the order dates.
 - Verified the number of records loaded against the input dataset.
 
-**Tools used:** Python, Pandas, MySQL.
+## **Tools used:** Python, Pandas, MySQL.
 
 ## What I Learned
 
