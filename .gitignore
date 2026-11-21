@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Power BI temporary files
+*.tmp
